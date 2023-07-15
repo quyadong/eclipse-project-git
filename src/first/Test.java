@@ -5,14 +5,14 @@ public class Test {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.print("I like pizza\n");//Êä³öÍê×Ö·û´®»»ĞĞ
+		System.out.print("I like pizza\n");//è¾“å‡ºå®Œå­—ç¬¦ä¸²æ¢è¡Œ
 		System.out.print("you like me");
 		
-		System.out.println("I like pizza\n");//Êä³öÍê×Ö·û´®±¾Éí¾Í»»ĞĞ£¬ÓÖ¼ÓÁË¸ö»»ĞĞ×ªÒå×Ö·û
+		System.out.println("I like pizza\n");//è¾“å‡ºå®Œå­—ç¬¦ä¸²æœ¬èº«å°±æ¢è¡Œï¼ŒåˆåŠ äº†ä¸ªæ¢è¡Œè½¬ä¹‰å­—ç¬¦
 		System.out.print("you like me");
 		
-		//×ªÒå×Ö·û
-		System.out.println("\n\tÄãºÃ"+"\n"+"ÓĞÈËËµ£º\"ËûÊÇ¸ö´óÉµ×Ó¡£\"\t"+"\'word\'µÄ¸ñÊ½ÊÇÒ»¸ö×Ö·ûÀàĞÍµÄ³£Á¿µÄ¸ñÊ½");
+		//è½¬ä¹‰å­—ç¬¦
+		System.out.println("\n\tä½ å¥½"+"\n"+"æœ‰äººè¯´ï¼š\"ä»–æ˜¯ä¸ªå¤§å‚»å­ã€‚\"\t"+"\'word\'çš„æ ¼å¼æ˜¯ä¸€ä¸ªå­—ç¬¦ç±»å‹çš„å¸¸é‡çš„æ ¼å¼");
 		
 		
 		
@@ -24,7 +24,7 @@ public class Test {
 		double t=679.9876;
 		char r='c';
 		boolean n=true;
-		String str="ÄãºÃ°¡";
+		String str="ä½ å¥½å•Š";
 		System.out.println("\nint:"+x);
 		System.out.println("int:"+y);
 		System.out.println("long:"+z);
@@ -33,8 +33,9 @@ public class Test {
 		System.out.println("char:"+r);
 		System.out.println("int:"+y);
 		System.out.println("boolean:"+n);
-		System.out.println("String:"+str+"Ğ¡ÃÀÅ®");
-		
+		System.out.println("String:"+str+"å°ç¾å¥³");
+
+		System.out.println("æµ‹è¯•");
 		
 	}
 
